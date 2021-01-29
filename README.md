@@ -14,7 +14,7 @@ The Windows program has been updated with the necessary extra functions, and som
 
 There is now also a quick and easy way to program the firmware into the Arduino Nano, using the program XLOADER.
 
-A 20 page manual describing the new functions is available in Dutch and English (volunteers to translate into other languages welcome!).
+An 18 page manual describing the new functions is available in Dutch and English (volunteers to translate into other languages welcome!).
 
 We hope you find these extensions useful and fun!
 
