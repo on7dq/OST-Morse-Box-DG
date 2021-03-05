@@ -1,6 +1,7 @@
 # OST-Morse-Box-DG
 Extension of the original OST Morse Box with a Decoder and an AF Generator, but remaining fully compatible with the existing hardware.
 You will need to build the basic OST Morse Box first, see https://github.com/on7dq/OST-Morse-Box
+Additionaly, the keyer routine has been enhanced with **Iambic A and B** modes, settable in the latest version of the Windows Control program.
 
 The OST Morse Box can be extended in software and hardware, to include a CW decoder for transmitted AND received signals. 
 For receiving, a small extra PCB must be assembled, and connected to input D2 (connect at the Paddle Test jumper).
