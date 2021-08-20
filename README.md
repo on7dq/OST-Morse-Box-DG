@@ -1,6 +1,6 @@
 # OST-Morse-Box-DG
 
-![Image](https://github.com/on7dq/OST-Morse-Box-DG/blob/master/ON7DQ%20OST%20Morse%20Box%20DG.jpg)
+![Image](https://github.com/on7dq/OST-Morse-Box-DG/blob/main/ON7DQ%20OST%20Morse%20Box%20DG.jpg)
 
 Extension of the original OST Morse Box with a **Transmit and Receive Decoder** and an **AF Generator**, but remaining fully compatible with the existing hardware.
 You will need to build the basic OST Morse Box first, see https://github.com/on7dq/OST-Morse-Box
